@@ -1,0 +1,9 @@
+{
+	"name": "NSDataFactoryTesting",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5235f5b2-db79-4c6d-915e-46ce1c42185a",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
